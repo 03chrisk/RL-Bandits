@@ -1,0 +1,15 @@
+[project]
+name = "multi-armed-bandits-group10-multi-armed-bandits"
+version = "0.1.0"
+description = "Evaluating the 10-armed bandit problem using different algorithms"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.9.2",
+    "numpy>=2.1.3",
+    "pandas>=2.2.3",
+    "scipy>=1.14.1",
+    "seaborn>=0.13.2",
+    "typing>=3.10.0.0",
+]
